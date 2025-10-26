@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
+include(":app:xxx")
+include(":app:ads")
+include(":app_10bubble_game")
