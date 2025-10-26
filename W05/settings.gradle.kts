@@ -19,8 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Application"
+rootProject.name = "W05"
 include(":app")
-include(":app_04")
-include(":app:w05")
-include(":app:w052")
+ 
