@@ -38,7 +38,8 @@
 
 **Card 컴포넌트와 다크 모드**
 
-<img src="screenshots/week4_profile_card.png" width="250"/>
+<img width="542" height="820" alt="profile" src="https://github.com/user-attachments/assets/39c0c93d-2e49-4a5a-b454-5b58bb824b41" />
+
 
 #### 주요 내용
 - Card 컴포넌트 활용
@@ -55,7 +56,8 @@
 
 **상태 관리와 이벤트 처리**
 
-<img src="screenshots/week5_stopwatch.png" width="600"/>
+<img width="801" height="783" alt="StopWatch" src="https://github.com/user-attachments/assets/efd9e6d4-b21b-4302-8e50-8fbf55a354cf" />
+
 
 #### 주요 내용
 - State 관리 (remember, mutableStateOf)
@@ -74,7 +76,11 @@
 
 **게임 로직과 애니메이션**
 
-<img src="screenshots/week6_bubble_game.png" width="250"/> <img src="screenshots/week6_game_over.png" width="250"/>
+<img width="417" height="812" alt="01_gameplay" src="https://github.com/user-attachments/assets/3af402f4-b2ae-4e57-bf61-136ae4a12d3a" />
+<img width="357" height="133" alt="02_combo" src="https://github.com/user-attachments/assets/d09e9cec-2f24-44b6-ac69-54671a310c25" />
+<img width="252" height="223" alt="03_gameover" src="https://github.com/user-attachments/assets/844909f7-8207-4fa6-8cf3-205b269a701f" />
+
+
 
 #### 주요 내용
 - Canvas를 활용한 커스텀 드로잉
