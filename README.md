@@ -20,8 +20,7 @@
 
 **Jetpack Compose 기본 UI 구성**
 
-<img src="![Uploading ComposeCoffee.png…]()
-" width="250"/>
+<img width="540" height="685" alt="ComposeCoffee" src="https://github.com/user-attachments/assets/15cd542b-2722-4f78-9e88-4cfc438fe55e" />
 
 #### 주요 내용
 - Column, Row, Image, Text 기본 레이아웃
