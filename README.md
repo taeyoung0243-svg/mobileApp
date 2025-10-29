@@ -1,4 +1,4 @@
-# 📱 Mobile App Practice with Jetpack Compose
+# 📱 Mobile App 실습
 
 <div align="center">
 
@@ -33,8 +33,6 @@
 - 컴포즈 커피 매장 이미지
 - 위치: "위치: 우송대 정문 앞"
 
-**[📖 상세 보기 →](./week3_compose_coffee/README.md)**
-
 ---
 
 ### 4️⃣주차 — 🎴 프로필 & 메시지 카드
@@ -51,8 +49,6 @@
 #### 구현 화면
 - **Profile Card**: 리버풀 로고 + "강태영" + "리버풀 우승한다"
 - **Message Card**: "Android" + "Jetpack Compose"
-
-**[📖 상세 보기 →](./week4_profile_card/README.md)**
 
 ---
 
@@ -73,11 +69,9 @@
 2. **카운터 앱**: Count 증가/리셋
 3. **스톱워치**: 00:01:23 형식, Start/Stop/Reset
 
-**[📖 상세 보기 →](./week5_stopwatch/README.md)**
-
 ---
 
-### 6️⃣주차 — 🎮 버블버블 게임
+### 6️⃣주차 — 🎮 버블팝 게임
 
 **게임 로직과 애니메이션**
 
@@ -95,24 +89,7 @@
 - 🎯 점수 시스템 (COMBO x8 🔥)
 - ⏱️ 제한 시간 (37초 → 45초)
 - 🏆 최고 기록 저장 (Best: 200)
-- 💬 게임 오버 다이얼로그 ("게임 오버! 당신의 점수: 180 점, 최고 기록: 200 점")
-
-**[📖 상세 보기 →](./week6_bubble_game/README.md)**
-
----
-
-## 🚀 시작하기
-
-### 필요 조건
-- Android Studio Hedgehog 이상
-- JDK 17 이상
-- Android SDK 24 이상
-
-### 실행 방법
-```bash
-git clone https://github.com/taeyoung0243-svg/mobileApp.git
-```
-Android Studio에서 프로젝트를 열고 Run 버튼을 누르세요!
+- 💬 게임 오버 다이얼로그 ("게임 오버! 당신의 점수: 180 점, 최고 기록: 200 점"
 
 ---
 
@@ -151,12 +128,6 @@ Compose의 핵심인 상태 관리와 이벤트 처리를 마스터했습니다.
 
 ### Week 6: 게임 개발
 Canvas 드로잉, 애니메이션, 복잡한 게임 로직까지 모든 것을 통합했습니다!
-
----
-
-## 📌 Repository 유지보수 중
-
-지금까지 4개 주차의 실습을 완료했으며, 앞으로도 추가 프로젝트가 업데이트될 예정입니다! 🚀
 
 ---
 
